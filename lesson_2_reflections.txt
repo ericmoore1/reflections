@@ -6,3 +6,4 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something? 
 Now that you have your workspace set up, what do you want to try using git for? 
 What happens when you initialize a repository? Why do you need to do it? a .git file is created, it allows you to track changes to your files. 
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
